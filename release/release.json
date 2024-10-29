@@ -2,6 +2,20 @@
   "code": 100,
   "name": "1.0.0",
   "desc": "",
-  "downloadUrl": "https://pan.quark.cn/s/3e50fe299162"
+  "downloadUrl": "https://pan.quark.cn/s/3e50fe299162",
+  "source": [
+    {
+      "name":"搜索引擎1",
+      "url":"https://pastebin.com/raw/zTKe8TGA"
+    },
+    {
+      "name":"搜索引擎2",
+      "url":"https://gh-proxy.com/raw.githubusercontent.com/NextPlayerCloud/PanSearch/refs/heads/main/release/source.txt"
+    },
+    {
+      "name":"搜索引擎3",
+      "url":"https://ghp.ci/raw.githubusercontent.com/NextPlayerCloud/PanSearch/refs/heads/main/release/source.txt"
+    }
+  ]
 
 }
