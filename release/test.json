@@ -1,1 +1,13 @@
-{"spider":"https://gh-proxy.com/github.com/NextPlayerCloud/PanSearch/blob/main/release/pan.jar;md5;5f4a6c688bbd1b27559e9b4815269ad0","wallpaper":"https://bing.img.run/rand_m.php","sites":[{"key":"混合盘","name":"混合盘","type":3,"api":"csp_HunHePan","searchable":1,"changeable":0},{"key":"新6v","name":"新6v[磁力]","type":3,"api":"csp_Xb6v","searchable":1,"changeable":0},{"key":"drpy_js_磁力熊","name":"磁力熊[磁力]","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/NextPlayerCloud/PanSearch/refs/heads/main/release/lib/drpy2.min.js","index":1,"ext":"https://gh-proxy.com/raw.githubusercontent.com/NextPlayerCloud/PanSearch/main/release/js/%E7%A3%81%E5%8A%9B%E7%86%8A.js","searchable":1},{"key":"drpy_js_酷吧","name":"酷吧[磁力]","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/NextPlayerCloud/PanSearch/refs/heads/main/release/lib/drpy2.min.js","index":1,"ext":"https://gh-proxy.com/raw.githubusercontent.com/NextPlayerCloud/PanSearch/main/release/js/kuba.js","searchable":1},{"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"changeable":0},{"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0},{"key":"找资源","name":"找资源[阿里]","type":3,"api":"csp_Zhaozy","searchable":1,"changeable":0,"ext":"cshi@qq.com$$$cshi@qq.com$$$cshi@qq.com"},{"key":"纸条","name":"纸条[阿里]","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"changeable":0}]}
+{
+  "spider": "https://NextPlayerCloud/PanSearch/blob/main/release/panTest.jar",
+  "wallpaper": "https://bing.img.run/rand_m.php",
+  "sites": [
+    {
+      "key": "米搜",
+      "name": "米搜[网盘]",
+      "type": 3,
+      "api": "csp_MiSou",
+      "searchable": 1
+    }
+  ]
+}
