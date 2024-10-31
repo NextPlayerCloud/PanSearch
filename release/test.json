@@ -8,6 +8,13 @@
       "type": 3,
       "api": "csp_MiSou",
       "searchable": 1
+    },
+        {
+      "key": "皮卡",
+      "name": "皮卡[网盘]",
+      "type": 3,
+      "api": "csp_PiKa",
+      "searchable": 1
     }
   ]
 }
