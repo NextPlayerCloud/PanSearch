@@ -19,12 +19,12 @@
   "hotAd": [
     {
       "name":"测试1",
-      "show":false,
+      "show":true,
       "url":"https://pastebin.com/raw/q61vpKTZ"
     },
     {
       "name":"搜索引擎2",
-      "show":false,
+      "show":true,
       "url":"https://gh-proxy.com/raw.githubusercontent.com/NextPlayerCloud/PanSearch/refs/heads/main/release/source.txt"
     }
   ]
