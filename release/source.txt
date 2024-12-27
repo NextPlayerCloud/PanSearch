@@ -1,1 +1,210 @@
-###panewogICJzcGlkZXIiOiAiaHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9naXRodWIuY29tL05leHRQbGF5ZXJDbG91ZC9QYW5TZWFyY2gvcmF3L3JlZnMvaGVhZHMvbWFpbi9yZWxlYXNlL3Bhbi5qYXI7bWQ1OzUyNmMzNDVhZjdiNjkzMGQ5NWY1MjpanUyMWU0ZjI0NGIyIiwKICAid2FsbHBhcGVyIjogImh0dHBzOi8vYmluZy5pbWcucnVuL3JhbmRfbS5waHAiLAogICJzaXRlcyI6IFsKICAgIHsKICAgICAgImtleSI6ICLmt7flkIjnm5giLAogICAgICAibmFtZSI6ICLmt7flkIjnm5hb572R55uYXSbnvZHnm5giLAogICAgICAidpanHlwZSI6IDMsCiAgICAgICJhcGkiOiAiY3NwX0h1bkhlUGFuIiwKICAgICAgInNlYXJjaGFibGUiOiAxLAogICAgICAiZmluZCI6IHRydWUKICAgIH0sCiAgICB7CiAgICAgICJrZXkiOiAi5aS45YWL5ZCnW+e9keebmF0iLAogICAgICAibmFtZSI6ICLlpLjlhYvlkKdb572R55panuYXSbnvZHnm5giLAogICAgICAidHlwZSI6IDMsCiAgICAgICJhcGkiOiAiY3NwX1dQS0tCIiwKICAgICAgInNlYXJjaGFibGUiOiAxLAogICAgICAiZmluZCI6IHRydWUKICAgIH0sCiAgICB7CiAgICAgICJrZXkiOiAi5reY5a6dIiwKICAgICAgIm5hbWUiOiAi5reY5a6dJuS8mOaDoOWIuCIsCiAgICAgICJ0eXBlIjogMywKICAgICAgImFwaSI6ICJjc3BfQ1BTVEIiLAogICAgICAic2VhcmNoYWJsZSI6IDEsCiAgICAgICJmaW5kIjogdHJ1ZQogICAgfSwKICAgIHsKICAgICAgImtleSI6ICLkuqzkuJwiLAogICAgICAibmFtZSI6ICLkuqzkuJwm5LyY5oOg5Yi4IiwKICAgICAgInR5cGUiOiAzLAogICAgICAiYXBpIjogImNzcF9DUFNKREQiLAogICAgICAic2VhcmNoYWJsZSI6IDEsCiAgICAgICJmaW5kIjogdHJ1ZQogICAgfSwKICAgIHsKICAgICAgImtleSI6ICLmi7zlpJrlpJoiLAogICAgICAibmFtZSI6ICLmi7zlpJrlpJom5LyY5oOg5Yi4IiwKICAgICAgInR5cGUiOiAzLAogICAgICAiYXBpIjogImNzcF9DUFNQREQiLAogICAgICAic2VhcmNoYWJsZSI6IDEsCiAgICAgICJmaW5kIjogdHJ1ZQogICAgfSwKICAgIHsKICAgICAgImtleSI6ICLllK/lk4HkvJoiLAogICAgICAibmFtZSI6ICLllK/lk4HkvJom5LyY5oOg5Yi4IiwKICAgICAgInR5cGUiOiAzLAogICAgICAiYXBpIjogImNzcF9DUFNXUEgiLAogICAgICAic2VhcmNoYWJsZSI6IDEsCiAgICAgICJmaW5kIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJrZXkiOiAi5ZCD5Zad546p5LmQIiwKICAgICAgIm5hbWUiOiAi5ZCD5Zad546p5LmQJuWQg+WWneeOqeS5kCIsCiAgICAgICJ0eXBlIjogMywKICAgICAgImFwaSI6ICJjc3BfQ1BTSlRLIiwKICAgICAgInNlYXJjaGFibGUiOiAwLAogICAgICAiZmluZCI6IHRydWUKICAgIH0sCiAgICB7CiAgICAgICJrZXkiOiAi5pyo5YG25ZOl5ZOlW+e9keebmF0iLAogICAgICAibmFtZSI6ICLmnKjlgbblk6Xlk6Vb572R55uYXSbnvZHnm5giLAogICAgICAidHlwZSI6IDMsCiAgICAgICJhcGkiOiAiY3NwX1dQTW9nZyIsCiAgICAgICJzZWFyY2hhYmxlIjogMSwKICAgICAgImZpbmQiOiB0cnVlCiAgICB9LAogICAgewogICAgICAia2V5IjogIuexs+aQnFvnvZHnm5hdIiwKICAgICAgIm5hbWUiOiAi57Gz5pCcW+e9keebmF0m572R55uYIiwKICAgICAgInR5cGUiOiAzLAogICAgICAiYXBpIjogImNzcF9NaVNvdSIsCiAgICAgICJzZWFyY2hhYmxlIjogMSwKICAgICAgImZpbmQiOiB0cnVlCiAgICB9LAogICAgewogICAgICAia2V5IjogIuaWsDZ2IiwKICAgICAgIm5hbWUiOiAi5pawNnZb56OB5YqbXSbno4HlipsiLAogICAgICAidHlwZSI6IDMsCiAgICAgICJhcGkiOiAiY3NwX1hiNnYiLAogICAgICAic2VhcmNoYWJsZSI6IDEsCiAgICAgICJmaW5kIjogdHJ1ZQogICAgfSwKICAgIHsKICAgICAgImtleSI6ICLmlrDpo5joirEiLAogICAgICAibmFtZSI6ICLmlrDpo5joirFb56OB5YqbXSbno4HlipsiLAogICAgICAidHlwZSI6IDMsCiAgICAgICJhcGkiOiAiY3NwX0NMUEgiLAogICAgICAic2VhcmNoYWJsZSI6IDEsCiAgICAgICJmaW5kIjogdHJ1ZQogICAgfSwKICAgIHsKICAgICAgImtleSI6ICJkcnB5X2pzX+ejgeWKm+eGiiIsCiAgICAgICJuYW1lIjogIuejgeWKm+eGilvno4HliptdJuejgeWKmyIsCiAgICAgICJ0eXBlIjogMywKICAgICAgImFwaSI6ICJodHRwczovL2docC5jaS9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL05leHRQbGF5ZXJDbG91ZC9QYW5TZWFyY2gvcmVmcy9oZWFkcy9tYWluL3JlbGVhc2UvbGliL2RycHkyLm1pbi5qcyIsCiAgICAgICJpbmRleCI6IDEsCiAgICAgICJleHQiOiAiaHR0cHM6Ly9naHAuY2kvcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9OZXh0UGxheWVyQ2xvdWQvUGFuU2VhcmNoL21haW4vcmVsZWFzZS9qcy8lRTclQTMlODElRTUlOEElOUIlRTclODYlOEEuanMiLAogICAgICAic2VhcmNoYWJsZSI6IDEsCiAgICAgICJmaW5kIjogdHJ1ZQogICAgfSwKICAgIHsKICAgICAgImtleSI6ICJkcnB5X2pzX+mFt+WQpyIsCiAgICAgICJuYW1lIjogIumFt+WQp1vno4HliptdJuejgeWKmyIsCiAgICAgICJ0eXBlIjogMywKICAgICAgImFwaSI6ICJodHRwczovL2docC5jaS9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL05leHRQbGF5ZXJDbG91ZC9QYW5TZWFyY2gvcmVmcy9oZWFkcy9tYWluL3JlbGVhc2UvbGliL2RycHkyLm1pbi5qcyIsCiAgICAgICJpbmRleCI6IDEsCiAgICAgICJleHQiOiAiaHR0cHM6Ly9naHAuY2kvcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9OZXh0UGxheWVyQ2xvdWQvUGFuU2VhcmNoL21haW4vcmVsZWFzZS9qcy9rdWJhLmpzIiwKICAgICAgInNlYXJjaGFibGUiOiAxLAogICAgICAiZmluZCI6IHRydWUKICAgIH0sCiAgICB7CiAgICAgICJrZXkiOiAi5piT5pCcW+e9keebmF0iLAogICAgICAibmFtZSI6ICLmmJPmkJxb572R55uYXSbnvZHnm5giLAogICAgICAidHlwZSI6IDMsCiAgICAgICJhcGkiOiAiY3NwX1lpU28iLAogICAgICAic2VhcmNoYWJsZSI6IDEKICAgIH0sCiAgICB7CiAgICAgICJrZXkiOiAi55uY5pCcW+e9keebmF0iLAogICAgICAibmFtZSI6ICLnm5jmkJxb572R55uYXSbnvZHnm5giLAogICAgICAidHlwZSI6IDMsCiAgICAgICJhcGkiOiAiY3NwX1BhblNlYXJjaCIsCiAgICAgICJzZWFyY2hhYmxlIjogMQogICAgfSwKICAgIHsKICAgICAgImtleSI6ICLnmq7ljaFb572R55uYXSIsCiAgICAgICJuYW1lIjogIuearuWNoVvnvZHnm5hdJue9keebmCIsCiAgICAgICJ0eXBlIjogMywKICAgICAgImFwaSI6ICJjc3BfUGlLYSIsCiAgICAgICJzZWFyY2hhYmxlIjogMQogICAgfSwKICAgIHsKICAgICAgImtleSI6ICLmib7otYTmupAiLAogICAgICAibmFtZSI6ICLmib7otYTmupBb572R55uYXSbnvZHnm5giLAogICAgICAidHlwZSI6IDMsCiAgICAgICJhcGkiOiAiY3NwX1poYW96eSIsCiAgICAgICJzZWFyY2hhYmxlIjogMSwKICAgICAgImV4dCI6ICJjc2hpQHFxLmNvbSQkJGNzaGlAcXEuY29tJCQkY3NoaUBxcS5jb20iCiAgICB9LAogICAgewogICAgICAia2V5IjogIue6uOadoSIsCiAgICAgICJuYW1lIjogIue6uOadoVvnvZHnm5hdJue9keebmCIsCiAgICAgICJ0eXBlIjogMywKICAgICAgImFwaSI6ICJjc3BfWGlhb1poaVRpYW8iLAogICAgICAic2VhcmNoYWJsZSI6IDEsCiAgICAgICJjaGFuZ2VhYmxlIjogMAogICAgfSwKICAgIHsKICAgICAgImtleSI6ICLogonkuI3opoHpkrEiLAogICAgICAibmFtZSI6ICLogonkuI3opoHpkrFb572R55uYXSbnvZHnm5giLAogICAgICAidHlwZSI6IDMsCiAgICAgICJhcGkiOiAiY3NwX1hpYW9aaGlUaWFvIiwKICAgICAgInNlYXJjaGFibGUiOiAxCiAgICB9LAogICAgewogICAgICAia2V5IjogIumYv+mHjOS6keebmOebmCIsCiAgICAgICJuYW1lIjogIumYv+mHjOS6keebmOebmFvnvZHnm5hdJue9keebmCIsCiAgICAgICJ0eXBlIjogMywKICAgICAgImFwaSI6ICJjc3BfV1BZcFBhbiIsCiAgICAgICJzZWFyY2hhYmxlIjogMQogICAgfSwKICAgIHsKICAgICAgImtleSI6ICLno4HlipvlupMiLAogICAgICAibmFtZSI6ICLno4HlipvlupMm56OB5YqbIiwKICAgICAgInR5cGUiOiAzLAogICAgICAiYXBpIjogImNzcF9DaUxpS3UiLAogICAgICAic2VhcmNoYWJsZSI6IDEKICAgIH0sCiAgICB7CiAgICAgICJrZXkiOiAi56OB5Yqb5YWI6ZSLIiwKICAgICAgIm5hbWUiOiAi56OB5Yqb5YWI6ZSLJuejgeWKmyIsCiAgICAgICJ0eXBlIjogMywKICAgICAgImFwaSI6ICJjc3BfQ0xYRiIsCiAgICAgICJzZWFyY2hhYmxlIjogMQogICAgfSwKICAgIHsKICAgICAgImtleSI6ICLml6DmnoHno4HlipsiLAogICAgICAibmFtZSI6ICLml6DmnoHno4Hlipsm56OB5YqbIiwKICAgICAgInR5cGUiOiAzLAogICAgICAiYXBpIjogImNzcF9XSkNMIiwKICAgICAgInNlYXJjaGFibGUiOiAxCiAgICB9LAogICAgewogICAgICAia2V5IjogIuWFqOe9keeDreamnCIsCiAgICAgICJuYW1lIjogIuWFqOe9keeDreamnCbng63mppwiLAogICAgICAidHlwZSI6IDMsCiAgICAgICJhcGkiOiAiY3NwX1JlQmFuZyIsCiAgICAgICJzZWFyY2hhYmxlIjogMCwKICAgICAgImZpbmQiOiB0cnVlCiAgICB9LAogICAgewogICAgICAia2V5IjogIuaXoOWQjemfs+S5kCIsCiAgICAgICJuYW1lIjogIuaXoOWQjemfs+S5kCbpn7PkuZAiLAogICAgICAidHlwZSI6IDMsCiAgICAgICJhcGkiOiAiY3NwX011c2ljV00iLAogICAgICAic2VhcmNoYWJsZSI6IDEsCiAgICAgICJmaW5kIjogdHJ1ZQogICAgfSwKICAgIHsKICAgICAgImtleSI6ICLpmIXor7vkuabmupDku5MiLAogICAgICAibmFtZSI6ICLpmIXor7vkuabmupDku5Mm6ZiF6K+75Lmm5rqQIiwKICAgICAgInR5cGUiOiAzLAogICAgICAiYXBpIjogImNzcF9ZaW92ZSIsCiAgICAgICJzZWFyY2hhYmxlIjogMSwKICAgICAgImZpbmQiOiB0cnVlCiAgICB9CiAgXQp9
+{
+  "spider": "https://ghgo.xyz/https://github.com/NextPlayerCloud/PanSearch/raw/refs/heads/main/release/pan.jar;md5;526c345af7b6930d95f52521e4f244b2",
+  "wallpaper": "https://bing.img.run/rand_m.php",
+  "sites": [
+    {
+      "key": "混合盘",
+      "name": "混合盘[网盘]&网盘",
+      "type": 3,
+      "api": "csp_HunHePan",
+      "searchable": 1,
+      "find": true
+    },
+    {
+      "key": "夸克吧[网盘]",
+      "name": "夸克吧[网盘]&网盘",
+      "type": 3,
+      "api": "csp_WPKKB",
+      "searchable": 1,
+      "find": true
+    },
+    {
+      "key": "淘宝",
+      "name": "淘宝&优惠券",
+      "type": 3,
+      "api": "csp_CPSTB",
+      "searchable": 1,
+      "find": true
+    },
+    {
+      "key": "京东",
+      "name": "京东&优惠券",
+      "type": 3,
+      "api": "csp_CPSJDD",
+      "searchable": 1,
+      "find": true
+    },
+    {
+      "key": "拼多多",
+      "name": "拼多多&优惠券",
+      "type": 3,
+      "api": "csp_CPSPDD",
+      "searchable": 1,
+      "find": true
+    },
+    {
+      "key": "唯品会",
+      "name": "唯品会&优惠券",
+      "type": 3,
+      "api": "csp_CPSWPH",
+      "searchable": 1,
+      "find": false
+    },
+    {
+      "key": "吃喝玩乐",
+      "name": "吃喝玩乐&吃喝玩乐",
+      "type": 3,
+      "api": "csp_CPSJTK",
+      "searchable": 0,
+      "find": true
+    },
+    {
+      "key": "木偶哥哥[网盘]",
+      "name": "木偶哥哥[网盘]&网盘",
+      "type": 3,
+      "api": "csp_WPMogg",
+      "searchable": 1,
+      "find": true
+    },
+    {
+      "key": "米搜[网盘]",
+      "name": "米搜[网盘]&网盘",
+      "type": 3,
+      "api": "csp_MiSou",
+      "searchable": 1,
+      "find": true
+    },
+    {
+      "key": "新6v",
+      "name": "新6v[磁力]&磁力",
+      "type": 3,
+      "api": "csp_Xb6v",
+      "searchable": 1,
+      "find": true
+    },
+    {
+      "key": "新飘花",
+      "name": "新飘花[磁力]&磁力",
+      "type": 3,
+      "api": "csp_CLPH",
+      "searchable": 1,
+      "find": true
+    },
+    {
+      "key": "drpy_js_磁力熊",
+      "name": "磁力熊[磁力]&磁力",
+      "type": 3,
+      "api": "https://ghp.ci/raw.githubusercontent.com/NextPlayerCloud/PanSearch/refs/heads/main/release/lib/drpy2.min.js",
+      "index": 1,
+      "ext": "https://ghp.ci/raw.githubusercontent.com/NextPlayerCloud/PanSearch/main/release/js/%E7%A3%81%E5%8A%9B%E7%86%8A.js",
+      "searchable": 1,
+      "find": true
+    },
+    {
+      "key": "drpy_js_酷吧",
+      "name": "酷吧[磁力]&磁力",
+      "type": 3,
+      "api": "https://ghp.ci/raw.githubusercontent.com/NextPlayerCloud/PanSearch/refs/heads/main/release/lib/drpy2.min.js",
+      "index": 1,
+      "ext": "https://ghp.ci/raw.githubusercontent.com/NextPlayerCloud/PanSearch/main/release/js/kuba.js",
+      "searchable": 1,
+      "find": true
+    },
+    {
+      "key": "易搜[网盘]",
+      "name": "易搜[网盘]&网盘",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1
+    },
+    {
+      "key": "盘搜[网盘]",
+      "name": "盘搜[网盘]&网盘",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1
+    },
+    {
+      "key": "皮卡[网盘]",
+      "name": "皮卡[网盘]&网盘",
+      "type": 3,
+      "api": "csp_PiKa",
+      "searchable": 1
+    },
+    {
+      "key": "找资源",
+      "name": "找资源[网盘]&网盘",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "ext": "cshi@qq.com$$$cshi@qq.com$$$cshi@qq.com"
+    },
+    {
+      "key": "纸条",
+      "name": "纸条[网盘]&网盘",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "肉不要钱",
+      "name": "肉不要钱[网盘]&网盘",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1
+    },
+    {
+      "key": "阿里云盘盘",
+      "name": "阿里云盘盘[网盘]&网盘",
+      "type": 3,
+      "api": "csp_WPYpPan",
+      "searchable": 1
+    },
+    {
+      "key": "磁力库",
+      "name": "磁力库&磁力",
+      "type": 3,
+      "api": "csp_CiLiKu",
+      "searchable": 1
+    },
+    {
+      "key": "磁力先锋",
+      "name": "磁力先锋&磁力",
+      "type": 3,
+      "api": "csp_CLXF",
+      "searchable": 1
+    },
+    {
+      "key": "无极磁力",
+      "name": "无极磁力&磁力",
+      "type": 3,
+      "api": "csp_WJCL",
+      "searchable": 1
+    },
+    {
+      "key": "全网热榜",
+      "name": "全网热榜&热榜",
+      "type": 3,
+      "api": "csp_ReBang",
+      "searchable": 0,
+      "find": true
+    },
+    {
+      "key": "无名音乐",
+      "name": "无名音乐&音乐",
+      "type": 3,
+      "api": "csp_MusicWM",
+      "searchable": 1,
+      "find": true
+    },
+    {
+      "key": "阅读书源仓",
+      "name": "阅读书源仓&阅读书源",
+      "type": 3,
+      "api": "csp_Yiove",
+      "searchable": 1,
+      "find": true
+    }
+  ]
+}
