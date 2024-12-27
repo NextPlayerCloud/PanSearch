@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghgo.xyz/https://github.com/NextPlayerCloud/PanSearch/raw/refs/heads/main/release/pan.jar;md5;526c345af7b6930d95f52521e4f244b2",
+  "spider": "https://ghgo.xyz/https://github.com/NextPlayerCloud/PanSearch/raw/refs/heads/main/release/pan.jar;md5;a1ee3dea94a93060bb7763d56a8086df",
   "wallpaper": "https://bing.img.run/rand_m.php",
   "sites": [
     {
