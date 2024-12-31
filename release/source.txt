@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghgo.xyz/https://github.com/NextPlayerCloud/PanSearch/raw/refs/heads/main/release/pan.jar;md5;99140689645c97a8c59e192e322976e0",
+  "spider": "https://ghgo.xyz/https://github.com/NextPlayerCloud/PanSearch/raw/refs/heads/main/release/pan.jar;md5;cba2a64bb9d71b24f42cae6761b8d37d",
   "wallpaper": "https://bing.img.run/rand_m.php",
   "sites": [
     {
@@ -50,19 +50,28 @@
       "searchable": 1,
       "find": false
     },
-    {
-      "key": "吃喝玩乐",
-      "name": "吃喝玩乐&吃喝玩乐",
-      "type": 3,
-      "api": "csp_CPSJTK",
-      "searchable": 0,
-      "find": true
-    },
+
     {
       "key": "木偶哥哥[网盘]",
       "name": "木偶哥哥[网盘]&网盘",
       "type": 3,
       "api": "csp_WPMogg",
+      "searchable": 1,
+      "find": true
+    },
+    {
+      "key": "电影云集[网盘]",
+      "name": "电影云集[网盘]&网盘",
+      "type": 3,
+      "api": "csp_WPDianYingYunJi",
+      "searchable": 1,
+      "find": true
+    },
+    {
+      "key": "夸克社[网盘]",
+      "name": "夸克社[网盘]&网盘",
+      "type": 3,
+      "api": "csp_WPKuaKeS",
       "searchable": 1,
       "find": true
     },
