@@ -1,37 +1,13 @@
 {
-  "code": 105,
-  "name": "1.0.5",
-  "desc": "1优化体验\n2压缩应用体积\n3增加热搜词以及联想词\n4永久免费放心使用",
+  "code": 100,
+  "name": "1.0.0",
+  "desc": "",
+  "downloadUrl": "",
   "source": [
-    {
-      "name":"搜索引擎1",
-      "url":"https://pastebin.com/raw/q61vpKTZ"
-    },
-    {
-      "name":"搜索引擎2",
-      "url":"https://gh-proxy.com/raw.githubusercontent.com/NextPlayerCloud/PanSearch/refs/heads/main/release/source.txt"
-    },
-    {
-      "name":"搜索引擎3",
-      "url":"https://ghgo.xyz/raw.githubusercontent.com/NextPlayerCloud/PanSearch/refs/heads/main/release/source.txt"
-    }
+    
   ],
   "hotAd": [
-    {
-      "name":"京东年货节每日红包",
-      "show":true,
-      "url":"openApp.jdMobile://virtual?params=%7B%22url%22:%22https://u.jd.com/sO7MfcH%22,%22M_sourceFrom%22:%22h5auto%22,%22des%22:%22m%22,%22sourceType%22:%22babel%22,%22msf_type%22:%22auto%22,%22sourceValue%22:%22babel-act%22,%22category%22:%22jump%22%7D"
-    },
-    {
-      "name":"淘宝年货节每日红包",
-      "show":true,
-      "url":"taobao://m.tb.cn/h.Ti4GqxC"
-    },
-    {
-      "name":"成人用品",
-      "show":true,
-      "url":"https://quan.458962.xyz/?cid=yqhxAmc#/search?keyword=成人用品"
-    }
+    
   ]
 
 
