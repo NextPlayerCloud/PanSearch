@@ -1,7 +1,7 @@
 {
   "code": 101,
   "name": "1.0.1",
-  "desc": "自动解析携带视频的网页\n首页增加反馈入口",
+  "desc": "支持自动嗅探网页视频\n首页增加反馈入口",
   "downloadUrl": "https://pan.quark.cn/s/1a7dcf9586c6",
   "source": [
     
