@@ -1,8 +1,9 @@
 {
-  "code": 107,
-  "name": "1.0.7",
-  "desc": "1优化体验\n2压缩应用体积\n3增加热搜词以及联想词\n4永久免费放心使用",
+  "code": 108,
+  "name": "1.0.8",
+  "desc": "1优化体验\n2压缩应用体积\n3搜索增加一键清空\n4去除非必要权限5\n永久免费放心使用",
   "historyUrl":"https://pan.quark.cn/s/08a443a07bf6",
+  "downloadUrl":"https://pan.quark.cn/s/08a443a07bf6",
   "source": [
     {
       "name":"搜索引擎1",
