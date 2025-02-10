@@ -1,10 +1,33 @@
 {
-  "code": 103,
-  "name": "1.0.3",
-  "desc": "增加历史记录\n增加快速删除输入框内容\n增加选集\n增加播放器控制",
+  "code": 104,
+  "name": "1.0.4",
+  "desc": "播放器增加提前缓冲\n网页自动嗅探可播放音视频\n网页点击磁力链接自动解析播放\n此次更新完先重启",
   "downloadUrl": "https://pan.quark.cn/s/b1a591ddb847",
   "source": [
-    
+      {
+      "name": "爱看",
+      "pic": "",
+      "url": "https://v.ikanbot.com/",
+      "show": true,
+      "type": "web",
+      "ad": ""
+    },
+      {
+      "name": "必应搜索",
+      "pic": "",
+      "url": "https://www.bing.com/search?q=%E7%A3%81%E5%8A%9B%E7%BD%91%E7%AB%99",
+      "show": true,
+      "type": "web",
+      "ad": ""
+    },
+      {
+      "name": "搜优惠券",
+      "pic": "",
+      "url": "https://kurl02.cn/7idVHi",
+      "show": true,
+      "type": "web",
+      "ad": ""
+    }
   ],
   "hotAd": [
     
