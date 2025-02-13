@@ -1,7 +1,7 @@
 {
-  "code": 105,
-  "name": "1.0.5",
-  "desc": "播放器增加提前缓冲\n网页自动嗅探可播放音视频\n网页点击磁力链接自动解析播放\n增加播放超时时间防止因超时导致播放失败",
+  "code": 106,
+  "name": "1.0.6",
+  "desc": "优化网页加载\n播放器增加DLNA投屏",
   "downloadUrl": "https://pan.quark.cn/s/b1a591ddb847",
   "source": [
       {
@@ -13,9 +13,9 @@
       "ad": ""
     },
       {
-      "name": "必应搜索",
+      "name": "网址导航",
       "pic": "",
-      "url": "https://www.bing.com/search?q=%E7%A3%81%E5%8A%9B%E7%BD%91%E7%AB%99",
+      "url": "http://nav.458962.xyz/",
       "show": true,
       "type": "web",
       "ad": ""
