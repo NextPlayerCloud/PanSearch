@@ -1,37 +1,6 @@
 {
-  "code": 106,
-  "name": "1.0.6",
-  "desc": "优化网页加载\n播放器增加DLNA投屏",
-  "downloadUrl": "https://pan.quark.cn/s/b1a591ddb847",
-  "source": [
-      {
-      "name": "爱看",
-      "pic": "",
-      "url": "https://v.ikanbot.com/",
-      "show": true,
-      "type": "web",
-      "ad": ""
-    },
-      {
-      "name": "网址导航",
-      "pic": "",
-      "url": "http://lbbxxyyds.cn/",
-      "show": true,
-      "type": "web",
-      "ad": ""
-    },
-      {
-      "name": "搜优惠券",
-      "pic": "",
-      "url": "https://kurl02.cn/7idVHi",
-      "show": true,
-      "type": "web",
-      "ad": ""
-    }
-  ],
-  "hotAd": [
-    
-  ]
-
-
+  "code": 100,
+  "name": "1.0.0",
+  "desc": "",
+  "downloadUrl": "https://pan.quark.cn/s/77dbc3e6efce"
 }
