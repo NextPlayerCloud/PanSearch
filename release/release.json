@@ -1,7 +1,7 @@
 {
-  "code": 106,
-  "name": "1.0.6",
-  "desc": "优化网页加载\n播放器增加DLNA投屏",
+  "code": 107,
+  "name": "1.0.7",
+  "desc": "紧急修复部分cili有进度无法播放",
   "downloadUrl": "https://pan.quark.cn/s/b1a591ddb847",
   "source": [
       {
