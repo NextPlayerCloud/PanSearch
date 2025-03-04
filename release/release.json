@@ -1,36 +1,34 @@
 {
-  "code": 107,
-  "name": "1.0.7",
-  "desc": "紧急修复部分cili有进度无法播放",
-  "downloadUrl": "https://pan.quark.cn/s/b1a591ddb847",
+  "code": 109,
+  "name": "1.0.9",
+  "desc": "1优化体验\n2压缩应用体积\n3搜索增加一键清空\n4去除非必要权限5\n移除多余内容更清爽6\n永久免费放心使用",
+  "historyUrl":"https://pan.quark.cn/s/08a443a07bf6",
+  "downloadUrl":"https://pan.quark.cn/s/08a443a07bf6",
   "source": [
-      {
-      "name": "爱看",
-      "pic": "",
-      "url": "https://v.ikanbot.com/",
-      "show": true,
-      "type": "web",
-      "ad": ""
+    {
+      "name":"搜索引擎1",
+      "url":"https://pastebin.com/raw/q61vpKTZ"
     },
-      {
-      "name": "网址导航",
-      "pic": "",
-      "url": "http://lbbxxyyds.cn/",
-      "show": true,
-      "type": "web",
-      "ad": ""
+    {
+      "name":"搜索引擎2",
+      "url":"https://gh-proxy.com/raw.githubusercontent.com/NextPlayerCloud/PanSearch/refs/heads/main/release/source.txt"
     },
-      {
-      "name": "搜优惠券",
-      "pic": "",
-      "url": "https://kurl02.cn/7idVHi",
-      "show": true,
-      "type": "web",
-      "ad": ""
+    {
+      "name":"搜索引擎3",
+      "url":"https://ghgo.xyz/raw.githubusercontent.com/NextPlayerCloud/PanSearch/refs/heads/main/release/source.txt"
     }
   ],
   "hotAd": [
-    
+    {
+      "name":"大流量卡",
+      "show":false,
+      "url":"https://172.lot-ml.com/ProductEn/index/a846ada2ea87e1c8"
+    },
+    {
+      "name":"全国特价电影票立减5-20",
+      "show":false,
+      "url":"https://kzurl06.cn/7iZH2f"
+    }
   ]
 
 
