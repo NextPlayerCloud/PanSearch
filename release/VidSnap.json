@@ -1,15 +1,139 @@
 {
-
   "update": {
     "apkUrl": "http://www.baidu.com",
-    "apkName": "VidSnap1.0.0.apk",
-    "apkVersionCode": 10,
+    "apkName": "VidSnap",
+    "apkVersionCode": 100,
     "apkVersionName": "1.0.0",
     "apkSize": "",
     "apkDescription": "VidSnap is a video snapping app.",
-    "forced": false
-
-
-  }
-
+    "forced": true
+  },
+  "online": [
+    {
+      "name": "国外短视频平台",
+      "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png",
+      "list": [
+        {
+          "name": "YouTube Shorts",
+          "url": "https://www.youtube.com/shorts",
+          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+        },
+        {
+          "name": "TikTok",
+          "url": "https://www.tiktok.com/",
+          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+        },
+        {
+          "name": "Instagram Reels",
+          "url": "https://www.youtube.com/shorts",
+          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+        },
+        {
+          "name": "Snapchat",
+          "url": "https://www.snapchat.com/",
+          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+        },
+        {
+          "name": "Triller",
+          "url": "https://triller.co/",
+          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+        },
+        {
+          "name": "Vimeo",
+          "url": "https://vimeo.com/",
+          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+        },
+        {
+          "name": "Kwai (Kuaishou 海外版)",
+          "url": "https://www.kwai.com/",
+          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+        }
+      ]
+    },
+    {
+      "name": "在线影视",
+      "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png",
+      "list": [
+        {
+          "name": "爱看机器人",
+          "url": "https://ddys.pro/",
+          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+        },
+        {
+          "name": "低端影视",
+          "url": "https://www.youtube.com/",
+          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+        },
+        {
+          "name": "在线之家",
+          "url": "https://www.zxzjhd.com/",
+          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+        }
+      ]
+    }
+  ],
+  "tools": [
+    {
+      "name": "国外",
+      "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png",
+      "list": [
+        {
+          "name": "油管",
+          "url": "https://www.youtube.com/",
+          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+        },
+        {
+          "name": "油管",
+          "url": "https://www.youtube.com/",
+          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+        },
+        {
+          "name": "油管",
+          "url": "https://www.youtube.com/",
+          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+        },
+        {
+          "name": "油管",
+          "url": "https://www.youtube.com/",
+          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+        },
+        {
+          "name": "油管",
+          "url": "https://www.youtube.com/",
+          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+        }
+      ]
+    },
+    {
+      "name": "国外",
+      "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png",
+      "list": [
+        {
+          "name": "油管",
+          "url": "https://www.youtube.com/",
+          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+        },
+        {
+          "name": "油管",
+          "url": "https://www.youtube.com/",
+          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+        },
+        {
+          "name": "油管",
+          "url": "https://www.youtube.com/",
+          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+        },
+        {
+          "name": "油管",
+          "url": "https://www.youtube.com/",
+          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+        },
+        {
+          "name": "油管",
+          "url": "https://www.youtube.com/",
+          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+        }
+      ]
+    }
+  ]
 }
