@@ -1,0 +1,15 @@
+{
+
+  "update": {
+    "apkUrl": "http://www.baidu.com",
+    "apkName": "VidSnap1.0.0.apk",
+    "apkVersionCode": 10,
+    "apkVersionName": "1.0.0",
+    "apkSize": "",
+    "apkDescription": "VidSnap is a video snapping app.",
+    "forced": false
+
+
+  }
+
+}
