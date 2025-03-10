@@ -2,7 +2,7 @@
   "update": {
     "apkUrl": "http://www.baidu.com",
     "apkName": "VidSnap",
-    "apkVersionCode": 100,
+    "apkVersionCode": 25,
     "apkVersionName": "1.0.0",
     "apkSize": "",
     "apkDescription": "VidSnap is a video snapping app.",
@@ -11,63 +11,94 @@
   "online": [
     {
       "name": "国外短视频平台",
-      "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png",
+      "icon": "",
       "list": [
         {
-          "name": "YouTube Shorts",
-          "url": "https://www.youtube.com/shorts",
-          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+          "name": "YouTube",
+          "url": "https://www.youtube.com",
+          "icon": ""
         },
         {
           "name": "TikTok",
           "url": "https://www.tiktok.com/",
-          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+          "icon": ""
         },
         {
-          "name": "Instagram Reels",
-          "url": "https://www.youtube.com/shorts",
-          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+          "name": "Instagram",
+          "url": "https://www.instagram.com/",
+          "icon": ""
         },
         {
-          "name": "Snapchat",
-          "url": "https://www.snapchat.com/",
-          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+          "name": "Twitch",
+          "url": "https://www.twitch.tv/",
+          "icon": ""
         },
         {
-          "name": "Triller",
-          "url": "https://triller.co/",
-          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+          "name": "Twitter",
+          "url": "https://x.com/",
+          "icon": ""
         },
         {
           "name": "Vimeo",
           "url": "https://vimeo.com/",
-          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+          "icon": ""
         },
         {
           "name": "Kwai (Kuaishou 海外版)",
           "url": "https://www.kwai.com/",
-          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+          "icon": ""
         }
       ]
     },
     {
       "name": "在线影视",
-      "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png",
+      "icon": "",
       "list": [
         {
           "name": "爱看机器人",
           "url": "https://v.ikanbot.com/",
-          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+          "icon": ""
         },
         {
           "name": "低端影视",
           "url": "https://ddys.pro/",
-          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+          "icon": ""
         },
         {
           "name": "在线之家",
           "url": "https://www.zxzjhd.com/",
-          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+          "icon": ""
+        },
+        {
+          "name": "抖音放映厅",
+          "url": "https://www.douyin.com/vs",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "name": "国内直播",
+      "icon": "",
+      "list": [
+        {
+          "name": "斗鱼",
+          "url": "https://www.douyu.com/",
+          "icon": ""
+        },
+        {
+          "name": "虎牙",
+          "url": "https://www.huya.com/",
+          "icon": ""
+        },
+        {
+          "name": "B站",
+          "url": "https://live.bilibili.com/",
+          "icon": ""
+        },
+        {
+          "name": "抖音放映厅",
+          "url": "https://www.douyin.com/vs",
+          "icon": ""
         }
       ]
     }
@@ -75,63 +106,63 @@
   "tools": [
     {
       "name": "国外",
-      "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png",
+      "icon": "",
       "list": [
         {
           "name": "油管",
           "url": "https://www.youtube.com/",
-          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+          "icon": ""
         },
         {
           "name": "油管",
           "url": "https://www.youtube.com/",
-          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+          "icon": ""
         },
         {
           "name": "油管",
           "url": "https://www.youtube.com/",
-          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+          "icon": ""
         },
         {
           "name": "油管",
           "url": "https://www.youtube.com/",
-          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+          "icon": ""
         },
         {
           "name": "油管",
           "url": "https://www.youtube.com/",
-          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+          "icon": ""
         }
       ]
     },
     {
       "name": "国外",
-      "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png",
+      "icon": "",
       "list": [
         {
           "name": "油管",
           "url": "https://www.youtube.com/",
-          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+          "icon": ""
         },
         {
           "name": "油管",
           "url": "https://www.youtube.com/",
-          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+          "icon": ""
         },
         {
           "name": "油管",
           "url": "https://www.youtube.com/",
-          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+          "icon": ""
         },
         {
           "name": "油管",
           "url": "https://www.youtube.com/",
-          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+          "icon": ""
         },
         {
           "name": "油管",
           "url": "https://www.youtube.com/",
-          "icon": "https://www.youtube.com/s/desktop/f0c2e4c9/img/favicon_96.png"
+          "icon": ""
         }
       ]
     }
