@@ -60,8 +60,8 @@
           "icon": ""
         },
         {
-          "name": "低端影视",
-          "url": "https://ddys.pro/",
+          "name": "低端影视发布页",
+          "url": "https://ddys.love/",
           "icon": ""
         },
         {
@@ -70,8 +70,13 @@
           "icon": ""
         },
         {
-          "name": "抖音放映厅",
-          "url": "https://www.douyin.com/vs",
+          "name": "厂长发布页",
+          "url": "https://www.cz01.vip/",
+          "icon": ""
+        },
+        {
+          "name": "FreeOk发布页",
+          "url": "https://www.freeok.my/",
           "icon": ""
         }
       ]
@@ -93,11 +98,6 @@
         {
           "name": "B站",
           "url": "https://live.bilibili.com/",
-          "icon": ""
-        },
-        {
-          "name": "抖音放映厅",
-          "url": "https://www.douyin.com/vs",
           "icon": ""
         }
       ]
