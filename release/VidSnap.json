@@ -105,63 +105,120 @@
   ],
   "tools": [
     {
-      "name": "国外",
+      "name": "日用工具",
       "icon": "",
       "list": [
         {
-          "name": "油管",
-          "url": "https://www.youtube.com/",
+          "name": "指南针",
+          "url": "vidSnap://compass",
           "icon": ""
         },
         {
-          "name": "油管",
-          "url": "https://www.youtube.com/",
+          "name": "尺子",
+          "url": "vidSnap://rule",
           "icon": ""
         },
         {
-          "name": "油管",
-          "url": "https://www.youtube.com/",
+          "name": "热榜",
+          "url": "vidSnap://newHot",
           "icon": ""
         },
         {
-          "name": "油管",
-          "url": "https://www.youtube.com/",
-          "icon": ""
-        },
-        {
-          "name": "油管",
-          "url": "https://www.youtube.com/",
+          "name": "时钟",
+          "url": "vidSnap://clock",
           "icon": ""
         }
       ]
     },
     {
-      "name": "国外",
+      "name": "国外短视频平台",
       "icon": "",
       "list": [
         {
-          "name": "油管",
-          "url": "https://www.youtube.com/",
+          "name": "YouTube",
+          "url": "https://www.youtube.com",
           "icon": ""
         },
         {
-          "name": "油管",
-          "url": "https://www.youtube.com/",
+          "name": "TikTok",
+          "url": "https://www.tiktok.com/",
           "icon": ""
         },
         {
-          "name": "油管",
-          "url": "https://www.youtube.com/",
+          "name": "Instagram",
+          "url": "https://www.instagram.com/",
           "icon": ""
         },
         {
-          "name": "油管",
-          "url": "https://www.youtube.com/",
+          "name": "Twitch",
+          "url": "https://www.twitch.tv/",
           "icon": ""
         },
         {
-          "name": "油管",
-          "url": "https://www.youtube.com/",
+          "name": "Twitter",
+          "url": "https://x.com/",
+          "icon": ""
+        },
+        {
+          "name": "Vimeo",
+          "url": "https://vimeo.com/",
+          "icon": ""
+        },
+        {
+          "name": "Kwai (Kuaishou 海外版)",
+          "url": "https://www.kwai.com/",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "name": "在线影视",
+      "icon": "",
+      "list": [
+        {
+          "name": "爱看机器人",
+          "url": "https://v.ikanbot.com/",
+          "icon": ""
+        },
+        {
+          "name": "低端影视发布页",
+          "url": "https://ddys.love/",
+          "icon": ""
+        },
+        {
+          "name": "在线之家",
+          "url": "https://www.zxzjhd.com/",
+          "icon": ""
+        },
+        {
+          "name": "厂长发布页",
+          "url": "https://www.cz01.vip/",
+          "icon": ""
+        },
+        {
+          "name": "FreeOk发布页",
+          "url": "https://www.freeok.my/",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "name": "国内直播",
+      "icon": "",
+      "list": [
+        {
+          "name": "斗鱼",
+          "url": "https://www.douyu.com/",
+          "icon": ""
+        },
+        {
+          "name": "虎牙",
+          "url": "https://www.huya.com/",
+          "icon": ""
+        },
+        {
+          "name": "B站",
+          "url": "https://live.bilibili.com/",
           "icon": ""
         }
       ]
