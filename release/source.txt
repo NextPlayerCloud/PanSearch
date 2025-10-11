@@ -1,5 +1,5 @@
 {
-  "spider": "http://47.103.59.145:8888/down/sjConq1o10u0;md5;402b68d0e05c4661746161ad0e714467",
+  "spider": "https://gh-proxy.com/https://github.com/NextPlayerCloud/PanSearch/raw/refs/heads/main/release/pan.jar;md5;251c72ac5b06bb25e6fa6023b1d6eef7",
   "wallpaper": "https://bing.img.run/rand_m.php",
   "sites": [
     {
@@ -18,39 +18,7 @@
       "searchable": 1,
       "find": true
     },
-    {
-      "key": "淘宝",
-      "name": "淘宝&优惠券",
-      "type": 3,
-      "api": "csp_CPSTB",
-      "searchable": 1,
-      "find": true
-    },
-    {
-      "key": "京东",
-      "name": "京东&优惠券",
-      "type": 3,
-      "api": "csp_CPSJDD",
-      "searchable": 1,
-      "find": true
-    },
-    {
-      "key": "拼多多",
-      "name": "拼多多&优惠券",
-      "type": 3,
-      "api": "csp_CPSPDD",
-      "searchable": 1,
-      "find": true
-    },
-    {
-      "key": "唯品会",
-      "name": "唯品会&优惠券",
-      "type": 3,
-      "api": "csp_CPSWPH",
-      "searchable": 1,
-      "find": false
-    },
-
+    
     {
       "key": "木偶哥哥[网盘]",
       "name": "木偶哥哥[网盘]&网盘",
@@ -191,22 +159,8 @@
       "api": "csp_WJCL",
       "searchable": 1
     },
-    {
-      "key": "全网热榜",
-      "name": "全网热榜&热榜",
-      "type": 3,
-      "api": "csp_ReBang",
-      "searchable": 0,
-      "find": true
-    },
-    {
-      "key": "无名音乐",
-      "name": "无名音乐&音乐",
-      "type": 3,
-      "api": "csp_MusicWM",
-      "searchable": 1,
-      "find": true
-    },
+
+
     {
       "key": "阅读书源仓",
       "name": "阅读书源仓&阅读书源",
